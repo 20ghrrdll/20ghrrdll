@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @20ghrrdll
-- 👀 I’m interested in frontend development and Human-Computer Interaction
+- 👀 I’m interested in Front-End Development and Human-Computer Interaction
 - 📫 Say hi -- @likesarahwithac on the bird app
 
 <!---
