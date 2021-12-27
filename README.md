@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @20ghrrdll
+- 👋 Hi, I’m Carah
 - 👀 I’m interested in Front-End Development and Human-Computer Interaction
 - 📫 Say hi -- @likesarahwithac on the bird app
 
